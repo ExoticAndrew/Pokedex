@@ -17,7 +17,7 @@ Este projeto é uma Pokédex interativa desenvolvida usando HTML, CSS e JavaScri
 
 A aplicação consome dados da PokéAPI, que fornece informações detalhadas sobre os Pokémon. A API utilizada é:
 
-- PokéAPI - Pokémon: https://pokeapi.co/api/v2/pokemon/
+- PokéAPI - Pokémon: https://pokeapi.co/api/v2/pokemon/ditto
 ## Funcionalidades:
 
 - Listagem de Pokémon: Exibe os 151 primeiros Pokémon com seus nomes, tipos e imagens.
